@@ -31,7 +31,7 @@ The course runs within the Fall semester, i.e., from `September` until `December
 - [Lecture 11: Motion along a curve](https://deepnote.com/@ludekcizinsky/Lecture-11-Motion-along-a-curve-fa0E8YWMQHqYq_YpxTNJNQ)
 - [Lecture 12: Partial derivatives](https://deepnote.com/@ludekcizinsky/Lecture-12-Partial-derivatives-L_zbQhktT9KLNxrezfmZDw)
 - [Lecture 13: The gradient](https://deepnote.com/@ludekcizinsky/Lecture-13-Gradient-Dy372wTwTZibtTsVA9Fy)
-- Lecture 14: Multiple integrals (_has not been created_)
+- [Lecture 14: Multiple integrals](https://deepnote.com/@ludekcizinsky/Lecture-14-Multiple-integrals-zxT-_po3SceTyLbl2mmsVQ)
 
 Please note that after the course is finished, solutions will be made unavailable until the start of the course in the following year. In addition, you can not `duplicate` the provided solutions. (this is ensured via the Deepnote platform) I impose these restrictions in order to ensure that each new batch of students have the same conditions as well as motivation to actual solve the problems.
 
